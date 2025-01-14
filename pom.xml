@@ -19,7 +19,7 @@
 		<surefire-plugin.version>3.5.1</surefire-plugin.version>
 		<lombok.version>1.18.34</lombok.version>
 		<mapstruct.version>1.6.2</mapstruct.version>
-		<netty.version>4.1.114.Final</netty.version>
+		<netty.version>4.1.117.Final</netty.version>
 	</properties>
 
 	<dependencyManagement>
@@ -133,7 +133,7 @@
 		<dependency>
 			<groupId>io.netty</groupId>
 			<artifactId>netty-transport-native-epoll</artifactId>
-			<version>4.1.114.Final</version>
+			<version>4.1.117.Final</version>
 		</dependency>
 
 
